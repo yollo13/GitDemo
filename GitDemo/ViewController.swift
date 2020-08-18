@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("Another print statement")
         // Do any additional setup after loading the view.
     }
 
